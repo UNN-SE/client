@@ -1,0 +1,5 @@
+/*
+  Better to set font-face without using of styled components
+  otherwise it may cause flickering for some browsers
+*/
+
